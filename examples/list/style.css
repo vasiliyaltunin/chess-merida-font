@@ -1,0 +1,17 @@
+table 
+{
+    min-width: 500px;
+}
+table tr {
+    height : 30px;
+}
+
+table tr td {
+    vertical-align: middle;
+    text-align: center;    
+}
+
+table tr td i {
+    font-size : 30px !important;
+}
+

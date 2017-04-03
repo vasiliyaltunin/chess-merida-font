@@ -1,0 +1,72 @@
+.chessTable
+{
+    min-width: 500px;
+    border : solid #000 1px;
+    border-collapse: collapse;
+    border-spacing: 0px;    
+}
+
+.chessTable tr {
+    height : 50px;
+}
+
+.chessTable tr td {
+    vertical-align: middle;
+    text-align: center;    
+    width : 40px;
+    border : solid #000 1px;
+    padding : 0px;
+}
+
+.chessTable tr td i {
+    font-size : 30px !important;
+    cursor: pointer !important;
+}
+
+.outer {
+    border : none;   
+}
+
+.toDrag {
+}
+
+.sidetable
+{
+    width : 200px;  
+    border : solid #000 1px;
+    border-collapse: collapse;
+    border-spacing: 0px;    
+}
+
+.sidetable tr td {
+    border : solid #000 1px;
+    text-align: center;
+    vertical-align: top;
+    font-size : 30px !important;
+    cursor: pointer !important;
+}
+
+
+.chessTable
+{
+}
+
+.cnt_table
+{
+
+}
+
+.sideCnt
+{
+    padding-left: 30px;
+    float: left;
+}
+
+.figuresCnt
+{
+    height: 450px;
+    
+}
+
+.figuresCnt
+{

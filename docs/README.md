@@ -1,6 +1,10 @@
-[![NPM](https://nodei.co/npm/chess-merida-font.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/chess-merida-font/)
 
+[![NPM](https://nodei.co/npm/chess-merida-font.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/chess-merida-font/)
 # Chess Merida Font [![GitHub license](https://img.shields.io/badge/license-MPL2-green.svg)](https://raw.githubusercontent.com/vasiliyaltunin/date-names-ex/master/LICENSE)
+
+### Github
+
+https://github.com/vasiliyaltunin/chess-merida-font
 
 ### Chess iconic font and CSS toolkit
 

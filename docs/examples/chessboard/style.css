@@ -1,0 +1,28 @@
+table 
+{
+    min-width: 500px;
+    border : solid #000 1px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+
+
+}
+table tr {
+    height : 50px;
+}
+
+table tr td {
+    vertical-align: middle;
+    text-align: center;    
+    width : 40px;
+    border : solid #000 1px;
+    padding : 0px;
+}
+
+table tr td i {
+    font-size : 30px !important;
+}
+
+.outer {
+    border : none;   
+}

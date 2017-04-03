@@ -1,0 +1,89 @@
+/*!
+ *  Ñhess Merida Font 0.0.1 by Vasiliy Altunin - https://vasiliyaltunin.github.io/chess-merida-font
+ *  Copyright (c) 2017 Vasiliy Altunin (skyr@altunin.online)
+ *  License - MPL-2.0
+ */
+@font-face {
+	font-family: 'ChessMerida';
+	src: url('../fonts/chessmerida-webfont.eot');
+	src: url('../fonts/chessmerida-webfont.woff') format('woff'), url('../fonts/chessmerida-webfont.ttf') format('truetype'), url('../fonts/chessmerida-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+ 
+
+.cm {
+  display: inline-block;
+  font: normal normal normal 14px/1 ChessMerida;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cm-rotate-180 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);  /* IE6,IE7 */
+  ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)"; /* IE8 */
+  -webkit-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+}
+
+.cm-w-pawn:before {
+  content: "p";
+}
+
+.cm-b-pawn:before {
+  content: "o";
+}
+
+
+.cm-w-knight:before {
+  content: "n";
+}
+
+.cm-b-knight:before {
+  content: "m";
+}
+
+.cm-w-bishop:before {
+  content: "b";
+}
+
+.cm-b-bishop:before {
+  content: "v";
+}
+
+.cm-w-rook:before {
+  content: "r";
+}
+
+.cm-b-rook:before {
+  content: "t";
+}
+
+.cm-w-queen:before {
+  content: "q";
+}
+
+.cm-b-queen:before {
+  content: "w";
+}
+
+.cm-w-king:before {
+  content: "k";
+}
+
+.cm-b-king:before {
+  content: "l";
+}
+
+.cm-w-x:before {
+  content: "x";
+}
+
+.cm-w-dot:before {
+  content: ".";
+}

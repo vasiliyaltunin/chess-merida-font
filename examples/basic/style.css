@@ -1,0 +1,12 @@
+.small {
+    font-size: 8px;
+    vertical-align: middle;
+}
+.large {
+    font-size: 30px;
+    vertical-align: middle;
+}
+.vlarge {
+    font-size: 60px;
+    vertical-align: middle;
+}
