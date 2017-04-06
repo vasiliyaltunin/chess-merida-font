@@ -8,7 +8,7 @@ https://github.com/vasiliyaltunin/chess-merida-font
 
 ### Chess iconic font and CSS toolkit
 
-Font Awesome is a full suite of all chess pieces icons for easy scalable vector graphics on websites. It based on on Chess Merida font by Armando Hernandez Marroquin (see /sources folder for full info).
+Chess Merida Font is a full suite of all chess pieces icons for easy scalable vector graphics on websites. It based on on Chess Merida font by Armando Hernandez Marroquin (see /sources folder for full info).
 
 Get started with this [tutorial](https://vasiliyaltunin.github.io/chess-merida-font/tutorial)
 
