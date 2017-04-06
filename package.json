@@ -1,7 +1,7 @@
 {
   "name": "chess-merida-font",
-  "version": "0.0.1",
-  "description": "Font Awesome is a full suite of all chess pieces icons for easy scalable vector graphics on websites.",
+  "version": "0.0.2",
+  "description": "Chess Merida Font is a full suite of all chess pieces icons for easy scalable vector graphics on websites.",
   "author": "Vasiliy Altunin",
   "license": "MPL-2.0",
   "repository": "git+https://github.com/vasiliyaltunin/chess-merida-font",
@@ -21,6 +21,5 @@
     "url": "https://github.com/vasiliyaltunin/date-names-ex/issues"
   },
   "homepage": "https://github.com/vasiliyaltunin/chess-merida-font#readme",
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
